@@ -1,1 +1,2 @@
 dia 1 inicie mi app.
+dia 2 ya cree mi repositorio local 
